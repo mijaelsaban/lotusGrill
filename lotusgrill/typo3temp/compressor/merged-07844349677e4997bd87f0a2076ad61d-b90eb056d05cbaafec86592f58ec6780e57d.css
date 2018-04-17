@@ -1,0 +1,930 @@
+@charset"utf-8";body .main-logo{background:url(../../fileadmin/img/logos/main-logo_en.png) no-repeat}
+body .logotype{background:url(../../fileadmin/img/logos/logotype_en.png) no-repeat}
+body .logo{background:url(../../fileadmin/img/logos/logo_en.png) no-repeat}
+.svg body .logotype{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_en.svg) no-repeat;background-size:291px 48px}
+.svg body .logo{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_en.svg) no-repeat;background-size:234px 39px}
+body.de .main-logo{background:url(../../fileadmin/img/logos/main-logo_de.png) no-repeat}
+body.de .logotype{background:url(../../fileadmin/img/logos/logotype_de.png) no-repeat}
+body.de .logo{background:url(../../fileadmin/img/logos/logo_de.png) no-repeat}
+.svg body.de .logotype{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_de.svg) no-repeat;background-size:291px 48px}
+.svg body.de .logo{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_de.svg) no-repeat;background-size:234px 39px}
+body.es .main-logo{background:url(../../fileadmin/img/logos/main-logo_es.png) no-repeat}
+body.es .logotype{background:url(../../fileadmin/img/logos/logotype_es.png) no-repeat}
+body.es .logo{background:url(../../fileadmin/img/logos/logo_es.png) no-repeat}
+.svg body.es .logotype{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_en.svg) no-repeat;background-size:291px 48px}
+.svg body.es .logo{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_en.svg) no-repeat;background-size:234px 39px}
+body.fr .main-logo{background:url(../../fileadmin/img/logos/main-logo_fr.png) no-repeat}
+body.fr .logotype{background:url(../../fileadmin/img/logos/logotype_fr.png) no-repeat}
+body.fr .logo{background:url(../../fileadmin/img/logos/logo_fr.png) no-repeat}
+.svg body.fr .logotype{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_en.svg) no-repeat;background-size:291px 48px}
+.svg body.fr .logo{background:url(http://lotusgrill.de/fileadmin/img/logos/logotype_en.svg) no-repeat;background-size:234px 39px}
+body.ru #nav li{font-size:12px}
+body.gr #nav li{font-size:12px}
+body.bg #nav li{font-size:12px}
+.svg.backgroundsize .language-list a.ad:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ad.svg)}
+.svg.backgroundsize .language-list a.ae:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ae.svg)}
+.svg.backgroundsize .language-list a.af:before{background:url(http://lotusgrill.de/fileadmin/img/flags/af.svg)}
+.svg.backgroundsize .language-list a.ag:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ag.svg)}
+.svg.backgroundsize .language-list a.ai:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ai.svg)}
+.svg.backgroundsize .language-list a.al:before{background:url(http://lotusgrill.de/fileadmin/img/flags/al.svg)}
+.svg.backgroundsize .language-list a.am:before{background:url(http://lotusgrill.de/fileadmin/img/flags/am.svg)}
+.svg.backgroundsize .language-list a.ao:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ao.svg)}
+.svg.backgroundsize .language-list a.aq:before{background:url(http://lotusgrill.de/fileadmin/img/flags/aq.svg)}
+.svg.backgroundsize .language-list a.ar:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ar.svg)}
+.svg.backgroundsize .language-list a.as:before{background:url(http://lotusgrill.de/fileadmin/img/flags/as.svg)}
+.svg.backgroundsize .language-list a.at:before{background:url(http://lotusgrill.de/fileadmin/img/flags/at.svg)}
+.svg.backgroundsize .language-list a.au:before{background:url(http://lotusgrill.de/fileadmin/img/flags/au.svg)}
+.svg.backgroundsize .language-list a.aw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/aw.svg)}
+.svg.backgroundsize .language-list a.ax:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ax.svg)}
+.svg.backgroundsize .language-list a.az:before{background:url(http://lotusgrill.de/fileadmin/img/flags/az.svg)}
+.svg.backgroundsize .language-list a.ba:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ba.svg)}
+.svg.backgroundsize .language-list a.bb:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bb.svg)}
+.svg.backgroundsize .language-list a.bd:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bd.svg)}
+.svg.backgroundsize .language-list a.be:before{background:url(http://lotusgrill.de/fileadmin/img/flags/be.svg)}
+.svg.backgroundsize .language-list a.bf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bf.svg)}
+.svg.backgroundsize .language-list a.bg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bg.svg)}
+.svg.backgroundsize .language-list a.bh:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bh.svg)}
+.svg.backgroundsize .language-list a.bi:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bi.svg)}
+.svg.backgroundsize .language-list a.bj:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bj.svg)}
+.svg.backgroundsize .language-list a.bl:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bl.svg)}
+.svg.backgroundsize .language-list a.bm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bm.svg)}
+.svg.backgroundsize .language-list a.bn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bn.svg)}
+.svg.backgroundsize .language-list a.bo:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bo.svg)}
+.svg.backgroundsize .language-list a.bq:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bq.svg)}
+.svg.backgroundsize .language-list a.br:before{background:url(http://lotusgrill.de/fileadmin/img/flags/br.svg)}
+.svg.backgroundsize .language-list a.bs:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bs.svg)}
+.svg.backgroundsize .language-list a.bt:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bt.svg)}
+.svg.backgroundsize .language-list a.bv:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bv.svg)}
+.svg.backgroundsize .language-list a.bw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bw.svg)}
+.svg.backgroundsize .language-list a.by:before{background:url(http://lotusgrill.de/fileadmin/img/flags/by.svg)}
+.svg.backgroundsize .language-list a.bz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/bz.svg)}
+.svg.backgroundsize .language-list a.ca:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ca.svg)}
+.svg.backgroundsize .language-list a.cc:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cc.svg)}
+.svg.backgroundsize .language-list a.cd:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cd.svg)}
+.svg.backgroundsize .language-list a.cf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cf.svg)}
+.svg.backgroundsize .language-list a.cg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cg.svg)}
+.svg.backgroundsize .language-list a.ch:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ch.svg)}
+.svg.backgroundsize .language-list a.ci:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ci.svg)}
+.svg.backgroundsize .language-list a.ck:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ck.svg)}
+.svg.backgroundsize .language-list a.cl:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cl.svg)}
+.svg.backgroundsize .language-list a.cm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cm.svg)}
+.svg.backgroundsize .language-list a.cn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cn.svg)}
+.svg.backgroundsize .language-list a.co:before{background:url(http://lotusgrill.de/fileadmin/img/flags/co.svg)}
+.svg.backgroundsize .language-list a.cr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cr.svg)}
+.svg.backgroundsize .language-list a.cu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cu.svg)}
+.svg.backgroundsize .language-list a.cv:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cv.svg)}
+.svg.backgroundsize .language-list a.cw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cw.svg)}
+.svg.backgroundsize .language-list a.cx:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cx.svg)}
+.svg.backgroundsize .language-list a.cy:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cy.svg)}
+.svg.backgroundsize .language-list a.cz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/cz.svg)}
+.svg.backgroundsize .language-list a.de:before{background:url(http://lotusgrill.de/fileadmin/img/flags/de.svg)}
+.svg.backgroundsize .language-list a.dj:before{background:url(http://lotusgrill.de/fileadmin/img/flags/dj.svg)}
+.svg.backgroundsize .language-list a.dk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/dk.svg)}
+.svg.backgroundsize .language-list a.dm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/dm.svg)}
+.svg.backgroundsize .language-list a.do:before{background:url(http://lotusgrill.de/fileadmin/img/flags/do.svg)}
+.svg.backgroundsize .language-list a.dz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/dz.svg)}
+.svg.backgroundsize .language-list a.ec:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ec.svg)}
+.svg.backgroundsize .language-list a.ee:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ee.svg)}
+.svg.backgroundsize .language-list a.eg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/eg.svg)}
+.svg.backgroundsize .language-list a.eh:before{background:url(http://lotusgrill.de/fileadmin/img/flags/eh.svg)}
+.svg.backgroundsize .language-list a.er:before{background:url(http://lotusgrill.de/fileadmin/img/flags/er.svg)}
+.svg.backgroundsize .language-list a.es:before{background:url(http://lotusgrill.de/fileadmin/img/flags/es.svg)}
+.svg.backgroundsize .language-list a.et:before{background:url(http://lotusgrill.de/fileadmin/img/flags/et.svg)}
+.svg.backgroundsize .language-list a.fi:before{background:url(http://lotusgrill.de/fileadmin/img/flags/fi.svg)}
+.svg.backgroundsize .language-list a.fj:before{background:url(http://lotusgrill.de/fileadmin/img/flags/fj.svg)}
+.svg.backgroundsize .language-list a.fk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/fk.svg)}
+.svg.backgroundsize .language-list a.fm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/fm.svg)}
+.svg.backgroundsize .language-list a.fo:before{background:url(http://lotusgrill.de/fileadmin/img/flags/fo.svg)}
+.svg.backgroundsize .language-list a.fr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/fr.svg)}
+.svg.backgroundsize .language-list a.ga:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ga.svg)}
+.svg.backgroundsize .language-list a.gb:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gb.svg)}
+.svg.backgroundsize .language-list a.gd:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gd.svg)}
+.svg.backgroundsize .language-list a.ge:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ge.svg)}
+.svg.backgroundsize .language-list a.gf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gf.svg)}
+.svg.backgroundsize .language-list a.gg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gg.svg)}
+.svg.backgroundsize .language-list a.gh:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gh.svg)}
+.svg.backgroundsize .language-list a.gi:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gi.svg)}
+.svg.backgroundsize .language-list a.gl:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gl.svg)}
+.svg.backgroundsize .language-list a.gm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gm.svg)}
+.svg.backgroundsize .language-list a.gn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gn.svg)}
+.svg.backgroundsize .language-list a.gp:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gp.svg)}
+.svg.backgroundsize .language-list a.gq:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gq.svg)}
+.svg.backgroundsize .language-list a.gr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gr.svg)}
+.svg.backgroundsize .language-list a.gs:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gs.svg)}
+.svg.backgroundsize .language-list a.gt:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gt.svg)}
+.svg.backgroundsize .language-list a.gu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gu.svg)}
+.svg.backgroundsize .language-list a.gw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gw.svg)}
+.svg.backgroundsize .language-list a.gy:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gy.svg)}
+.svg.backgroundsize .language-list a.hk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/hk.svg)}
+.svg.backgroundsize .language-list a.hm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/hm.svg)}
+.svg.backgroundsize .language-list a.hn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/hn.svg)}
+.svg.backgroundsize .language-list a.hr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/hr.svg)}
+.svg.backgroundsize .language-list a.ht:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ht.svg)}
+.svg.backgroundsize .language-list a.hu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/hu.svg)}
+.svg.backgroundsize .language-list a.id:before{background:url(http://lotusgrill.de/fileadmin/img/flags/id.svg)}
+.svg.backgroundsize .language-list a.ie:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ie.svg)}
+.svg.backgroundsize .language-list a.il:before{background:url(http://lotusgrill.de/fileadmin/img/flags/il.svg)}
+.svg.backgroundsize .language-list a.im:before{background:url(http://lotusgrill.de/fileadmin/img/flags/im.svg)}
+.svg.backgroundsize .language-list a.in:before{background:url(http://lotusgrill.de/fileadmin/img/flags/in.svg)}
+.svg.backgroundsize .language-list a.io:before{background:url(http://lotusgrill.de/fileadmin/img/flags/io.svg)}
+.svg.backgroundsize .language-list a.iq:before{background:url(http://lotusgrill.de/fileadmin/img/flags/iq.svg)}
+.svg.backgroundsize .language-list a.ir:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ir.svg)}
+.svg.backgroundsize .language-list a.is:before{background:url(http://lotusgrill.de/fileadmin/img/flags/is.svg)}
+.svg.backgroundsize .language-list a.it:before{background:url(http://lotusgrill.de/fileadmin/img/flags/it.svg)}
+.svg.backgroundsize .language-list a.je:before{background:url(http://lotusgrill.de/fileadmin/img/flags/je.svg)}
+.svg.backgroundsize .language-list a.jm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/jm.svg)}
+.svg.backgroundsize .language-list a.jo:before{background:url(http://lotusgrill.de/fileadmin/img/flags/jo.svg)}
+.svg.backgroundsize .language-list a.jp:before{background:url(http://lotusgrill.de/fileadmin/img/flags/jp.svg)}
+.svg.backgroundsize .language-list a.ke:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ke.svg)}
+.svg.backgroundsize .language-list a.kg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/kg.svg)}
+.svg.backgroundsize .language-list a.kh:before{background:url(http://lotusgrill.de/fileadmin/img/flags/kh.svg)}
+.svg.backgroundsize .language-list a.ki:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ki.svg)}
+.svg.backgroundsize .language-list a.km:before{background:url(http://lotusgrill.de/fileadmin/img/flags/km.svg)}
+.svg.backgroundsize .language-list a.kn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/kn.svg)}
+.svg.backgroundsize .language-list a.kp:before{background:url(http://lotusgrill.de/fileadmin/img/flags/kp.svg)}
+.svg.backgroundsize .language-list a.kr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/kr.svg)}
+.svg.backgroundsize .language-list a.kw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/kw.svg)}
+.svg.backgroundsize .language-list a.ky:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ky.svg)}
+.svg.backgroundsize .language-list a.kz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/kz.svg)}
+.svg.backgroundsize .language-list a.la:before{background:url(http://lotusgrill.de/fileadmin/img/flags/la.svg)}
+.svg.backgroundsize .language-list a.lb:before{background:url(http://lotusgrill.de/fileadmin/img/flags/lb.svg)}
+.svg.backgroundsize .language-list a.lc:before{background:url(http://lotusgrill.de/fileadmin/img/flags/lc.svg)}
+.svg.backgroundsize .language-list a.li:before{background:url(http://lotusgrill.de/fileadmin/img/flags/li.svg)}
+.svg.backgroundsize .language-list a.lk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/lk.svg)}
+.svg.backgroundsize .language-list a.lr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/lr.svg)}
+.svg.backgroundsize .language-list a.ls:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ls.svg)}
+.svg.backgroundsize .language-list a.lt:before{background:url(http://lotusgrill.de/fileadmin/img/flags/lt.svg)}
+.svg.backgroundsize .language-list a.lu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/lu.svg)}
+.svg.backgroundsize .language-list a.lv:before{background:url(http://lotusgrill.de/fileadmin/img/flags/lv.svg)}
+.svg.backgroundsize .language-list a.ly:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ly.svg)}
+.svg.backgroundsize .language-list a.ma:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ma.svg)}
+.svg.backgroundsize .language-list a.mc:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mc.svg)}
+.svg.backgroundsize .language-list a.md:before{background:url(http://lotusgrill.de/fileadmin/img/flags/md.svg)}
+.svg.backgroundsize .language-list a.me:before{background:url(http://lotusgrill.de/fileadmin/img/flags/me.svg)}
+.svg.backgroundsize .language-list a.mf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mf.svg)}
+.svg.backgroundsize .language-list a.mg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mg.svg)}
+.svg.backgroundsize .language-list a.mh:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mh.svg)}
+.svg.backgroundsize .language-list a.mk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mk.svg)}
+.svg.backgroundsize .language-list a.ml:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ml.svg)}
+.svg.backgroundsize .language-list a.mm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mm.svg)}
+.svg.backgroundsize .language-list a.mn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mn.svg)}
+.svg.backgroundsize .language-list a.mo:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mo.svg)}
+.svg.backgroundsize .language-list a.mp:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mp.svg)}
+.svg.backgroundsize .language-list a.mq:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mq.svg)}
+.svg.backgroundsize .language-list a.mr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mr.svg)}
+.svg.backgroundsize .language-list a.ms:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ms.svg)}
+.svg.backgroundsize .language-list a.mt:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mt.svg)}
+.svg.backgroundsize .language-list a.mu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mu.svg)}
+.svg.backgroundsize .language-list a.mv:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mv.svg)}
+.svg.backgroundsize .language-list a.mw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mw.svg)}
+.svg.backgroundsize .language-list a.mx:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mx.svg)}
+.svg.backgroundsize .language-list a.my:before{background:url(http://lotusgrill.de/fileadmin/img/flags/my.svg)}
+.svg.backgroundsize .language-list a.mz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/mz.svg)}
+.svg.backgroundsize .language-list a.na:before{background:url(http://lotusgrill.de/fileadmin/img/flags/na.svg)}
+.svg.backgroundsize .language-list a.nc:before{background:url(http://lotusgrill.de/fileadmin/img/flags/nc.svg)}
+.svg.backgroundsize .language-list a.ne:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ne.svg)}
+.svg.backgroundsize .language-list a.nf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/nf.svg)}
+.svg.backgroundsize .language-list a.ng:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ng.svg)}
+.svg.backgroundsize .language-list a.ni:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ni.svg)}
+.svg.backgroundsize .language-list a.nl:before{background:url(http://lotusgrill.de/fileadmin/img/flags/nl.svg)}
+.svg.backgroundsize .language-list a.no:before{background:url(http://lotusgrill.de/fileadmin/img/flags/no.svg)}
+.svg.backgroundsize .language-list a.np:before{background:url(http://lotusgrill.de/fileadmin/img/flags/np.svg)}
+.svg.backgroundsize .language-list a.nr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/nr.svg)}
+.svg.backgroundsize .language-list a.nu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/nu.svg)}
+.svg.backgroundsize .language-list a.nz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/nz.svg)}
+.svg.backgroundsize .language-list a.om:before{background:url(http://lotusgrill.de/fileadmin/img/flags/om.svg)}
+.svg.backgroundsize .language-list a.pa:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pa.svg)}
+.svg.backgroundsize .language-list a.pe:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pe.svg)}
+.svg.backgroundsize .language-list a.pf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pf.svg)}
+.svg.backgroundsize .language-list a.pg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pg.svg)}
+.svg.backgroundsize .language-list a.ph:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ph.svg)}
+.svg.backgroundsize .language-list a.pk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pk.svg)}
+.svg.backgroundsize .language-list a.pl:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pl.svg)}
+.svg.backgroundsize .language-list a.pm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pm.svg)}
+.svg.backgroundsize .language-list a.pn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pn.svg)}
+.svg.backgroundsize .language-list a.pr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pr.svg)}
+.svg.backgroundsize .language-list a.ps:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ps.svg)}
+.svg.backgroundsize .language-list a.pt:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pt.svg)}
+.svg.backgroundsize .language-list a.pw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/pw.svg)}
+.svg.backgroundsize .language-list a.py:before{background:url(http://lotusgrill.de/fileadmin/img/flags/py.svg)}
+.svg.backgroundsize .language-list a.qa:before{background:url(http://lotusgrill.de/fileadmin/img/flags/qa.svg)}
+.svg.backgroundsize .language-list a.re:before{background:url(http://lotusgrill.de/fileadmin/img/flags/re.svg)}
+.svg.backgroundsize .language-list a.ro:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ro.svg)}
+.svg.backgroundsize .language-list a.rs:before{background:url(http://lotusgrill.de/fileadmin/img/flags/rs.svg)}
+.svg.backgroundsize .language-list a.ru:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ru.svg)}
+.svg.backgroundsize .language-list a.rw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/rw.svg)}
+.svg.backgroundsize .language-list a.sa:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sa.svg)}
+.svg.backgroundsize .language-list a.sb:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sb.svg)}
+.svg.backgroundsize .language-list a.sc:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sc.svg)}
+.svg.backgroundsize .language-list a.sd:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sd.svg)}
+.svg.backgroundsize .language-list a.se:before{background:url(http://lotusgrill.de/fileadmin/img/flags/se.svg)}
+.svg.backgroundsize .language-list a.sg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sg.svg)}
+.svg.backgroundsize .language-list a.sh:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sh.svg)}
+.svg.backgroundsize .language-list a.si:before{background:url(http://lotusgrill.de/fileadmin/img/flags/si.svg)}
+.svg.backgroundsize .language-list a.sj:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sj.svg)}
+.svg.backgroundsize .language-list a.sk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sk.svg)}
+.svg.backgroundsize .language-list a.sl:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sl.svg)}
+.svg.backgroundsize .language-list a.sm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sm.svg)}
+.svg.backgroundsize .language-list a.sn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sn.svg)}
+.svg.backgroundsize .language-list a.so:before{background:url(http://lotusgrill.de/fileadmin/img/flags/so.svg)}
+.svg.backgroundsize .language-list a.sr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sr.svg)}
+.svg.backgroundsize .language-list a.ss:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ss.svg)}
+.svg.backgroundsize .language-list a.st:before{background:url(http://lotusgrill.de/fileadmin/img/flags/st.svg)}
+.svg.backgroundsize .language-list a.sv:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sv.svg)}
+.svg.backgroundsize .language-list a.sx:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sx.svg)}
+.svg.backgroundsize .language-list a.sy:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sy.svg)}
+.svg.backgroundsize .language-list a.sz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/sz.svg)}
+.svg.backgroundsize .language-list a.tc:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tc.svg)}
+.svg.backgroundsize .language-list a.td:before{background:url(http://lotusgrill.de/fileadmin/img/flags/td.svg)}
+.svg.backgroundsize .language-list a.tf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tf.svg)}
+.svg.backgroundsize .language-list a.tg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tg.svg)}
+.svg.backgroundsize .language-list a.th:before{background:url(http://lotusgrill.de/fileadmin/img/flags/th.svg)}
+.svg.backgroundsize .language-list a.tj:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tj.svg)}
+.svg.backgroundsize .language-list a.tk:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tk.svg)}
+.svg.backgroundsize .language-list a.tl:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tl.svg)}
+.svg.backgroundsize .language-list a.tm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tm.svg)}
+.svg.backgroundsize .language-list a.tn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tn.svg)}
+.svg.backgroundsize .language-list a.to:before{background:url(http://lotusgrill.de/fileadmin/img/flags/to.svg)}
+.svg.backgroundsize .language-list a.tr:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tr.svg)}
+.svg.backgroundsize .language-list a.tt:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tt.svg)}
+.svg.backgroundsize .language-list a.tv:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tv.svg)}
+.svg.backgroundsize .language-list a.tw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tw.svg)}
+.svg.backgroundsize .language-list a.tz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/tz.svg)}
+.svg.backgroundsize .language-list a.ua:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ua.svg)}
+.svg.backgroundsize .language-list a.ug:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ug.svg)}
+.svg.backgroundsize .language-list a.um:before{background:url(http://lotusgrill.de/fileadmin/img/flags/um.svg)}
+.svg.backgroundsize .language-list a.us:before{background:url(http://lotusgrill.de/fileadmin/img/flags/us.svg)}
+.svg.backgroundsize .language-list a.uy:before{background:url(http://lotusgrill.de/fileadmin/img/flags/uy.svg)}
+.svg.backgroundsize .language-list a.uz:before{background:url(http://lotusgrill.de/fileadmin/img/flags/uz.svg)}
+.svg.backgroundsize .language-list a.va:before{background:url(http://lotusgrill.de/fileadmin/img/flags/va.svg)}
+.svg.backgroundsize .language-list a.vc:before{background:url(http://lotusgrill.de/fileadmin/img/flags/vc.svg)}
+.svg.backgroundsize .language-list a.ve:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ve.svg)}
+.svg.backgroundsize .language-list a.vg:before{background:url(http://lotusgrill.de/fileadmin/img/flags/vg.svg)}
+.svg.backgroundsize .language-list a.vi:before{background:url(http://lotusgrill.de/fileadmin/img/flags/vi.svg)}
+.svg.backgroundsize .language-list a.vn:before{background:url(http://lotusgrill.de/fileadmin/img/flags/vn.svg)}
+.svg.backgroundsize .language-list a.vu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/vu.svg)}
+.svg.backgroundsize .language-list a.wf:before{background:url(http://lotusgrill.de/fileadmin/img/flags/wf.svg)}
+.svg.backgroundsize .language-list a.ws:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ws.svg)}
+.svg.backgroundsize .language-list a.ye:before{background:url(http://lotusgrill.de/fileadmin/img/flags/ye.svg)}
+.svg.backgroundsize .language-list a.yt:before{background:url(http://lotusgrill.de/fileadmin/img/flags/yt.svg)}
+.svg.backgroundsize .language-list a.za:before{background:url(http://lotusgrill.de/fileadmin/img/flags/za.svg)}
+.svg.backgroundsize .language-list a.zm:before{background:url(http://lotusgrill.de/fileadmin/img/flags/zm.svg)}
+.svg.backgroundsize .language-list a.zw:before{background:url(http://lotusgrill.de/fileadmin/img/flags/zw.svg)}
+.svg.backgroundsize .language-list a.eu:before{background:url(http://lotusgrill.de/fileadmin/img/flags/eu.svg)}
+.svg.backgroundsize .language-list a.gb-eng:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gb-eng.svg)}
+.svg.backgroundsize .language-list a.gb-nir:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gb-nir.svg)}
+.svg.backgroundsize .language-list a.gb-sct:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gb-sct.svg)}
+.svg.backgroundsize .language-list a.gb-wls:before{background:url(http://lotusgrill.de/fileadmin/img/flags/gb-wls.svg)}
+.svg.backgroundsize .language-list a.un:before{background:url(http://lotusgrill.de/fileadmin/img/flags/un.svg)}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+body{line-height:1}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none}
+table{border-collapse:collapse;border-spacing:0}
+.cf:before,.cf:after{content:"";display:table}
+.cf:after{clear:both}
+.cf{zoom:1}
+.nodisplay{display:none}
+.nodisplay_strict{display:none !important}
+.alignleft{float:left}
+.alignright{float:right}
+hr{display:block;height:1px;border:0;margin:1em 0;padding:0;border-top:1px solid #cccccc;
+}
+audio,canvas,video{display:inline-block;*display:inline;*zoom:1}
+audio:not([controls]){display:none}
+[hidden]{display:none}
+html{overflow-y:scroll;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}
+body,button,input,select,textarea{font-family:sans-serif}
+a:focus{outline:none}
+a:hover,a:active{outline:none}
+h1{font-size:2em}
+h1,h2,h3,h4,h5,h6,p,pre,blockquote,form,fieldset,table,ul{margin:0}
+del{text-decoration:line-through}
+abbr[title]{border-bottom:1px dotted;cursor:help}
+b,strong{font-weight:bold}
+dfn{font-style:italic}
+mark{background:#ff0;color:#000}
+pre,code,kbd,samp{font-family:monospace,serif;_font-family:'courier new',monospace;font-size:1em}
+pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}
+small{font-size:75%}
+sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
+sup{top:-0.5em}
+sub{bottom:-0.25em}
+img{border:0;-ms-interpolation-mode:bicubic}
+svg:not(:root){overflow:hidden}
+fieldset{border:0;margin:0;padding:0}
+legend{border:0;*margin-left:-7px}
+button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle;outline:none}
+button,input{line-height:normal}
+button,input[type="button"],input[type="reset"],input[type="submit"]{cursor:pointer;-webkit-appearance:button;*overflow:visible}
+input,select{vertical-align:middle}
+input[type="checkbox"],input[type="radio"]{box-sizing:border-box;padding:0}
+input[type="search"]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}
+input[type="search"]::-webkit-search-decoration{-webkit-appearance:none}
+button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}
+textarea{overflow:auto;vertical-align:top}
+.cleaner{clear:both;height:1px;font-size:1px}
+body{margin:0;background:#635E57;color:#635d57;font:13px/16px'Source Sans Pro',Arial,Helvetica,sans-serif;min-width:320px}
+#wrapper{width:100%;overflow:hidden;position:relative}
+#promo-wrapper{width:100%;height:100%;overflow:hidden;position:fixed;z-index:200;background:#635E57;display:none}
+a{color:#b9001b;text-decoration:none}
+a:hover{text-decoration:underline}
+.promo-block{padding:94px 0 194px;width:100%;max-width:1024px;margin:0 auto;position:relative;box-sizing:border-box}
+@media (max-width:1023px){.promo-block{padding:44px 30px 124px;max-width:100%}
+}
+.main-logo{margin:0 auto 136px;display:block;width:614px;height:27px;text-indent:-9999px;overflow:hidden}
+.main-logo a{height:100%;display:block}
+@media (max-width:673px){.main-logo{margin:0 auto 32px !important;width:100%;background-size:100% auto !important}
+}
+.logotype{margin:0 auto 90px;display:block;width:291px;height:48px;text-indent:-9999px;overflow:hidden}
+.logotype a{height:100%;display:block}
+@media (max-width:350px){.logotype{margin:0 auto 32px !important;width:100%;background-size:100% auto !important}
+}
+.separator-list{padding:0;margin:0 0 130px;list-style:none;text-align:center;font-size:0;line-height:0;letter-spacing:-1px}
+.separator-list li{display:inline-block;vertical-align:top;text-indent:-9999px;overflow:hidden;font:13px/16px'Source Sans Pro',Arial,Helvetica,sans-serif;letter-spacing:normal;background:url(../../fileadmin/img/separator01.png) no-repeat;width:13px;height:224px;margin:0 42px}
+*+html .separator-list li{display:inline}
+@media (max-width:991px){.separator-list{margin:0 0 44px !important}
+.separator-list li{margin:0 4% !important}
+}
+@media (max-width:767px){.separator-list{margin:0 0 44px !important}
+.separator-list li{margin:0 2% !important}
+}
+.down-link{display:block;background:none;width:54px;height:54px;margin:0 auto;text-indent:-9999px;font-size:0;color:transparent;overflow:hidden;position:relative}
+.down-link:before{content:"\f107";font-family:FontAwesome;color:#fff;display:block;width:54px;height:54px;line-height:44px;font-size:44px;padding:5px 5px 5px 6px;font-weight:300;border:solid 2px #fff;box-sizing:border-box;border-radius:52%;text-indent:0;text-align:center}
+.header-holder{width:100%;position:fixed;top:0;left:0;background:url(../../fileadmin/img/bg-body.gif);z-index:50}
+#header{width:100%;max-width:1024px;position:relative;margin:0 auto}
+.logo{margin:0 auto 44px;display:block;width:234px;height:39px;text-indent:-9999px;overflow:hidden}
+.logo a{height:100%;display:block}
+@media (max-width:991px){.logo{margin:0 auto 40px}
+}
+@media (max-width:767px){.logo{margin:-4px 12px 4px}
+}
+.language-box{background:#56514c;width:100%;max-width:1024px;padding:8px 9999px 0;margin:0 -9999px 50px;font-size:12px;color:#fff}
+@media (max-width:991px){.language-box{margin:0 -9999px 42px}
+}
+@media (max-width:767px){.language-box{padding-top:5px}
+}
+.language-box a{color:#fff}
+.language-box .holder{position:relative;width:100%;max-width:1024px}
+.language-box .language-link{background:#56514c;font-size:12px;line-height:15px;padding:7px 22px 10px;color:#fff;text-decoration:none;position:absolute;top:100%;right:0}
+.language-box .language-link:hover{text-decoration:underline}
+@media (max-width:767px){.language-box{margin-bottom:22px}
+.language-box .language-link{padding:2px 10px 5px}
+}
+.language-box .language{padding-top:11px;width:100%}
+.language-box .language:after{display:block;clear:both;content:''}
+.language-box .info{float:left;margin:7px 0 0 10px}
+@media (max-width:991px){.language-box .info{float:none;margin:7px 0 7px 10px}
+}
+.language-box .close{background:url("../../fileadmin/img/bg-close.png") no-repeat scroll 33px 20px transparent;width:27px;height:27px;text-indent:-9999px;overflow:hidden;float:right;padding:20px 33px 22px 33px;margin-top:-19px}
+@media (max-width:991px){.language-box .close{padding:10px;background:url("../../fileadmin/img/bg-close.png") no-repeat scroll 10px 10px transparent}
+}
+.language-list{margin:0 auto;width:790px;overflow:hidden;font-size:0;line-height:0;letter-spacing:-1px;padding-top:3px;padding-bottom:3px;margin-top:2px;height:auto}
+.language-list a{vertical-align:top;font-size:12px;line-height:16px;letter-spacing:normal;width:70px;height:21px;display:inline-block;padding:3px 0 0 26px;margin-right:30px;margin-bottom:4px;text-decoration:none;cursor:pointer;background:0 none}
+.language-list a:hover,.language-list a:focus{text-decoration:underline}
+.no-svg .language-list>a,.no-backgroundsize .language-list>a{padding-left:0}
+.svg.backgroundsize .language-list a{background:none no-repeat transparent;position:relative}
+.svg.backgroundsize .language-list a:before{content:"";display:inline-block;width:20px;height:20px;border-radius:52%;position:absolute;left:0;top:1px;background-repeat:no-repeat !important;background-size:20px 20px !important}
+@media (max-width:991px){.language-list{width:100%;max-width:790px;padding-top:3px;margin-top:2px;height:auto;padding-right:0;box-sizing:border-box}
+.language-list a{margin-left:10px;margin-right:10px;margin-bottom:8px}
+}
+#nav{padding:0;margin:0;list-style:none;text-align:center;text-justify:newspaper;line-height:0;border-top:1px solid #79746f;border-bottom:1px solid #79746f}
+#nav li{display:-moz-inline-box;display:inline-block;vertical-align:top;text-align:center;font:600 14px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;text-transform:uppercase;letter-spacing:1px}
+#nav a{text-decoration:none;color:#fff;display:block;padding:22px 14px}
+#nav .active a,#nav a:hover{color:#bcbab8}
+#nav .helper{width:100%;background:none}
+*+html #nav{width:99.9%;text-align-last:justify}
+*+html #nav li{display:inline}
+*+html #nav .helper{display:none}
+@media (max-width:991px){#nav{padding:6px 0;box-sizing:border-box}
+#nav a{padding:6px 5px;font-size:12px}
+}
+@media (max-width:767px){#nav{padding:0;box-sizing:border-box;height:0;overflow:hidden}
+#nav.open{height:auto}
+#nav li{width:100%;padding:0;margin:0;border-bottom:1px solid #79746f}
+#nav li:last-child{border-bottom:0 none}
+#nav a{padding:10px 12px;font-size:14px}
+}
+.nav-toggle-wrapper{display:block;box-sizing:border-box;width:100%;padding:7px 12px;margin-top:-34px}
+.nav-toggle-wrapper:before,.nav-toggle-wrapper:after{content:" ";display:table}
+.nav-toggle-wrapper:after{clear:both}
+#nav-toggle{display:none;float:right;width:28px;height:28px}
+#nav-toggle>span{display:block;background-color:#ffffff;width:28px;height:4px;margin:4px 0;border-radius:12px}
+#nav-toggle>span+span{margin-top:0}
+@media (max-width:767px){#nav-toggle{display:block}
+}
+@media (max-width:1023px){img{max-width:100%;height:auto}
+}
+.promo{width:100%;overflow:hidden;position:relative;margin:205px 0 0}
+@media (max-width:991px){.promo{margin:181px 0 0}
+}
+@media (max-width:767px){.promo{margin:76px 0 0}
+}
+.main-slider{width:100%;overflow:hidden;position:relative;z-index:1}
+.main-slider .slides{padding:0;margin:0;list-style:none;width:100%;
+min-height:700px}
+.main-slider .slides li{display:none;-webkit-backface-visibility:hidden;max-height:100%;min-height:700px}
+.main-slider .slides li img{display:block;min-width:100%;min-height:700px;max-width:1400px}
+.main-slider .slider .active{display:block;z-index:10}
+@media (max-width:991px){.main-slider .slides,.main-slider .slides li,.main-slider .slides li img{min-height:0}
+.main-slider .slides li img{max-width:100%}
+}
+.main-slider .flex-next,.main-slider .flex-prev{background:url(../../fileadmin/img/arrows01.png) no-repeat;width:20px;height:20px;text-indent:-9999px;overflow:hidden;position:absolute;top:50%;left:11px;margin:-10px 0 0;z-index:10}
+.main-slider .flex-next{left:auto;right:11px;background-position:0 -20px}
+.data-block{width:100%;max-width:1024px;margin:0 auto;color:#635d57}
+.data-block:after{display:block;clear:both;content:''}
+.promo .data-block{position:absolute;top:40%;left:50%;margin:0 0 0 -512px;z-index:20}
+.data-block .slider-holder{float:left;width:321px;margin:0 0 0 30px}
+.data-block .slider-holder.first{margin-left:0}
+@media (max-width:1059px){.promo .data-block{margin:0 0 0 -496px}
+.data-block .slider-holder{margin:0 0 0 15px}
+}
+@media (max-width:1023px){.promo .data-block{position:relative !important;top:15px !important;left:0 !important;margin:0 !important}
+.data-block .slider-holder,.data-block .slider-holder.first{float:none;width:320px;margin:0 auto 15px auto}
+}
+@media (max-width:767px){.promo .data-block{box-sizing:border-box;padding:0 12px}
+.data-block .slider-holder,.data-block .slider-holder.first{max-width:100%;box-sizing:border-box}
+.data-block .slider-holder .heading,.data-block .slider-holder .slider,.data-block .slider-holder .slider li{width:auto;max-width:100%;box-sizing:border-box}
+.data-block .slider-holder .slider li{height:172px !important}
+}
+.data-block .slider-holder .slider{}
+.data-block .slider-holder .slider li{height:129px}
+.data-block .slider-holder .slider li a.link{position:absolute;bottom:22px}
+.data-block .slider-holder{height:212px}
+.data-block .slider-holder:first-child{margin:0}
+.data-block .heading{background:url(../../fileadmin/img/fill01.png);padding:10px 19px 8px 20px;width:282px;overflow:hidden}
+.data-block .heading .title{font:600 14px/22px'Source Sans Pro',Arial,Helvetica,sans-serif;float:left;color:#fff;text-transform:uppercase;width:220px;letter-spacing:1px}
+@media (max-width:1023px){.data-block .heading{background:none #D2D1CF}
+.data-block .heading .title{color:#635d57}
+}
+.data-block .switcher{float:right;width:49px}
+.data-block .switcher .next,.data-block .switcher .prev{background:url(../../fileadmin/img/arrows02.png) no-repeat;width:22px;height:22px;text-indent:-9999px;overflow:hidden;float:left}
+.data-block .switcher .next{float:right;background-position:0 -22px}
+.data-block .slider{padding:0;margin:0;list-style:none;position:relative;background:url(../../fileadmin/img/fill02.png);height:172px;width:321px}
+.data-block .slider li{position:absolute;top:0;left:0;height:129px;width:282px;padding:21px 20px 22px 19px;z-index:1;display:none}
+.data-block .slider .active{display:block;z-index:10}
+.data-form{width:100%}
+.data-form .input-holder{width:100%;padding:0 0 17px}
+.data-form .input-holder:after{display:block;clear:both;content:''}
+.data-form .text{float:left;width:260px;height:33px;background:url(../../fileadmin/img/fill03.png);font:14px/33px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#635e57;border:0;margin:0;padding:0 11px;letter-spacing:1px}
+.data-form .text-size01{width:143px;margin:0 5px 0 0}
+.data-form .btn-holder{padding:4px 0 0}
+.data-form .btn{float:left;width:auto;background:#918e89 url(../../fileadmin/img/bg-btn01.png) no-repeat 17px 7px;height:26px;border:0;margin:0;padding:0px 12px 0 30px;font:14px/26px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#fff;cursor:pointer;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;position:relative;behavior:url(http://lotusgrill.de/fileadmin/js/pie.htc);letter-spacing:1px}
+.data-form .btn:hover{background:#c61b22 url(../../fileadmin/img/bg-btn01.png) no-repeat 17px 7px}
+.data-form select{float:left;width:282px}
+.data-form .select-size01{width:112px}
+.cusel{float:left;position:relative;cursor:pointer;z-index:1;height:33px;outline:none;zoom:1}
+.cuselFrameRight{float:right;background:url(../../fileadmin/img/bg-select-r.png) no-repeat;width:23px;height:33px}
+.cuselText{height:33x;padding:0 11px;cursor:pointer;overflow:hidden;position:relative;z-index:1;background:url(../../fileadmin/img/fill03.png);font:14px/33px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#635e57;letter-spacing:1px}
+.number-select .cuselText{text-align:center}
+.cusel span{display:block;cursor:pointer;white-space:nowrap;padding:0 11px;zoom:1;font:14px/20px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#635e57;letter-spacing:1px}
+.cusel .cuselActive,.cusel span:hover,.cusel .cuselOptHover{color:#000}
+.cuselOpen{z-index:999}
+.cusel .cusel-scroll-wrap{display:block;visibility:hidden;position:absolute;left:0;top:100%;min-width:100%;width:auto;z-index:100;margin:0}
+.cusel .jScrollPaneContainer{position:relative;overflow:hidden;z-index:55;border:1px solid #999;background:#fff}
+.cusel .jScrollPaneTrack{height:100%;width:2px !important;position:absolute;top:0;right:9px;border-left:2px solid #999}
+.cusel .jScrollPaneDrag{position:absolute;cursor:pointer;width:6px !important;height:20px !important;background:#999;right:0}
+.cusel .jScrollPaneDragTop{position:absolute;top:0;left:0;overflow:hidden}
+.cusel .jScrollPaneDragBottom{position:absolute;bottom:0;left:0;overflow:hidden}
+.cusel .jScrollArrowUp{position:absolute;top:0;width:10px !important;height:5px !important;right:0;cursor:pointer;overflow:hidden;display:none}
+.cusel .jScrollArrowDown{position:absolute;top:auto;bottom:0;right:0;cursor:pointer;width:10px !important;height:5px !important;overflow:hidden;display:none}
+.data-block .logo-holder{height:129px;width:282px;display:table}
+.data-block .logo-holder span{display:table-cell;vertical-align:middle;text-align:center}
+.data-block .logo-holder img{vertical-align:top}
+.data-block .subtitle{display:block;font:700 14px/16px'Source Sans Pro',Arial,Helvetica,sans-serif;margin:-1px 0 14px;text-transform:uppercase;letter-spacing:1px}
+.data-block .slider-holder:last-child .subtitle{
+}
+.data-block .data{text-transform:uppercase;font:600 14px/17px'Source Sans Pro',Arial,Helvetica,sans-serif;display:block;margin:0 0 7px;color:#c71b22;letter-spacing:1px}
+.data-block p{min-height:32px;margin:0 0 18px}
+.link{display:inline-block;vertical-align:top;background:#918e89;height:26px;border:0;margin:0;padding:0 20px 0 29px;font:14px/26px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#fff;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;position:relative;behavior:url(http://lotusgrill.de/fileadmin/js/pie.htc);text-decoration:none}
+.link:before{content:"\f105";font-family:FontAwesome;font-size:16px;position:absolute;left:15px;top:1px}
+.link:hover{background:#c61b22;text-decoration:none}
+#main{padding:262px 0 60px;width:100%;max-width:1024px;margin:0 auto;border-bottom:1px solid #8a8581}
+@media (max-width:1039px){#main{padding:213px 0 0}
+}
+@media (max-width:991px){#main{padding:181px 0 0}
+}
+@media (max-width:767px){#main{padding:76px 0 0}
+}
+#content{background:#fff;padding:38px 40px 40px 39px}
+@media (max-width:767px){#content{padding:20px 15px 20px 15px}
+}
+#content .left{float:left}
+#content .right{float:right}
+#content .left,#content .right{width:460px}
+@media (max-width:1023px){#content .left,#content .right{width:48%}
+}
+@media (max-width:767px){#content .left,#content .right{width:100%}
+}
+#content .left h1,#content .right h1{text-transform:uppercase;font:bold 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;margin-bottom:20px;letter-spacing:1px}
+#content .left h2,#content .right h2{text-transform:none;font:bold 13px/15px'Source Sans Pro',Arial,Helvetica,sans-serif;margin:10px 0}
+#content .left a,#content .right a{color:#635D57;text-decoration:underline}
+#content .left p,#content .right p{margin:10px 0}
+.img-holder{width:100%;overflow:hidden;margin:3px 0 39px}
+.img-holder img{display:block;margin:0 auto;max-width:100%;height:auto}
+.info-block{width:100%;padding:0 0 36px}
+.info-block:after{display:block;clear:both;content:''}
+.info-block .description{float:right;width:458px;letter-spacing:0.5px}
+@media (max-width:1023px){.info-block .description{width:56%}
+}
+@media (max-width:767px){.info-block .description{width:100%;float:none}
+}
+h2{text-transform:uppercase;font:bold 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;margin:0 0 23px;letter-spacing:1px}
+.info-block .description p{margin:0 0 14px}
+.info-block .subtitle{display:block;margin:0 0 18px}
+.info-block .post{padding:0 0 38px}
+.info-box{margin:3px 0 0;width:455px;border:1px solid #d8d6d5;float:left;position:relative}
+@media (max-width:1023px){.info-box{margin-right:2%}
+}
+@media (max-width:1023px){.info-block .description{float:none}
+}
+@media (max-width:767px){.info-box{margin-right:auto;margin-left:auto}
+}
+.info-box img{display:block}
+@media (max-width:1023px){.info-box img{margin:0 auto;max-width:100%;height:auto}
+}
+.awards-list{padding:0;margin:0;list-style:none}
+.awards-list li{border-top:1px solid #d8d6d5;width:100%;overflow:hidden}
+.awards-list li:first-child{border:0}
+.awards-list img{display:block;margin:0 auto}
+@media (max-width:1023px){.awards-list img{max-width:100%;height:auto}
+}
+#logout ~ .switcher-links{display:none !important}
+.switcher-links{width:100%;margin-top:20px}
+.switcher-links:before,.switcher-links:after{display:block;clear:both;content:''}
+.switcher-links .switcher{float:right}
+.switcher-links a{float:left;margin:0 0 0 23px;background:#918e89;height:25px;border:0;padding:0 11px 0 26px;font:14px/24px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#fff;letter-spacing:1px;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;position:relative;behavior:url(http://lotusgrill.de/fileadmin/js/pie.htc);text-decoration:none}
+.switcher-links a:before{content:"";font-family:FontAwesome;font-size:16px;position:absolute;left:11px;top:1px}
+.switcher-links a:hover{background:#c61b22;text-decoration:none}
+.switcher-links .prev:before{content:"\f104"}
+.switcher-links .next:before{content:"\f105";left:12px}
+@media (max-width:767px){.switcher-links .switcher{float:none;height:25px}
+.switcher-links .prev{float:left;margin:0 23px 0 0}
+.switcher-links .next{float:right}
+}
+.hint{width:44px;height:44px;position:absolute}
+.hint .point{background:url(../../fileadmin/img/bg-hint.png) no-repeat;width:44px;height:44px;text-indent:-9999px;overflow:hidden;z-index:5;display:block;position:relative}
+.hint01{top:363px;left:29px}
+.hint02{top:426px;left:40px}
+.hint03{top:355px;left:199px}
+@media (max-width:1023px){.hint01{top:216px;left:2px}
+.hint02{top:264px;left:8px}
+.hint03{top:220px;left:120px}
+}
+.hint .drop{z-index:10;position:absolute;bottom:32px;left:-9999px;margin:0 0 0 -104px;width:168px;background:#918E89;font:13px/16px'Source Sans Pro',Arial,Helvetica,sans-serif;letter-spacing:0.5px;color:#fff;padding:18px 19px 23px 23px;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;-webkit-box-shadow:0 0 5px #918E89;-moz-box-shadow:0 0 5px #918E89;box-shadow:0 0 5px #918E89}
+.hint:hover .drop,.hint:focus .drop{left:50%}
+@media (max-width:1023px){.hint.hint01:hover .drop,.hint.hint01:focus .drop,.hint.hint02:hover .drop,.hint.hint02:focus .drop{left:0%;margin:0}
+}
+.tabarea .tabset{padding:0;margin:0 0 -1px;list-style:none;width:100%;overflow:hidden;position:relative;z-index:10}
+.tabarea .tabset li{float:left;margin:0 0 0 4px}
+.tabarea .tabset li:first-child{margin:0}
+.tabarea .tabset a{float:left;background:#c9c7c4;color:#635d57;font:bold 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;padding:13px 21px 10px 21px;text-transform:uppercase;border:1px solid #c9c7c4;letter-spacing:0.5px;text-decoration:none}
+.tabarea .tabset a:hover{text-decoration:underline}
+.tabarea .tabset .active a{background:#efeeee;text-decoration:none;border:1px solid #a5a29e;border-bottom:0;padding-bottom:12px}
+.tabarea .tab-content{background:#efeeee;border:1px solid #a9a6a3;position:relative;z-index:1}
+.tabarea .tab{padding:30px 21px 22px 19px;width:903px}
+@media (max-width:1039px){.tabarea .tab{box-sizing:border-box;width:100%}
+}
+@media (max-width:767px){.tabarea .tabset{padding:0 0 41px 0;box-sizing:border-box}
+.tabarea .tabset li{position:relative;width:100%;float:none;margin:0;box-sizing:border-box}
+.tabarea .tabset li.active{position:absolute;left:0;bottom:0}
+.tabarea .tabset li a,.tabarea .tabset li.active a{float:none;display:block;box-sizing:border-box;border:1px solid #a5a29e;border-bottom:0 none;padding:11px 32px 10px 12px;background:#c9c7c4}
+.tabarea .tabset li.active a{background:#b7b5b0;border-bottom:1px solid #a5a29e}
+.tabarea .tabset li a:after{content:"+";position:absolute;right:12px;font-family:"Courier New",Courier,monospace;font-size:18px}
+.tabarea .tabset li.active a:after{content:"-"}
+}
+.tabarea .tab:after{display:block;clear:both;content:''}
+.slider-container{float:left;width:437px;position:relative;margin:3px 0 0}
+@media (max-width:1039px){.slider-container{width:50%;box-sizing:border-box}
+}
+@media (max-width:767px){.slider-container{width:100%}
+}
+.slider-container .arrow-nav{display:none;position:relative}
+.slider-container .arrow-nav a{display:block;width:19px;height:19px;text-align:center;position:absolute;top:220px;z-index:20;border-radius:52%;background-color:#918e89;color:#fff}
+.slider-container .arrow-nav a:before{content:"";font-family:FontAwesome;font-size:16px;position:absolute;left:7px;top:2px}
+.slider-container .arrow-nav .prev{left:10px}
+.slider-container .arrow-nav .next{right:10px}
+.slider-container .arrow-nav .prev:before{content:"\f104";left:6px}
+.slider-container .arrow-nav .next:before{content:"\f105"}
+@media (max-width:767px){.slider-container .arrow-nav{display:block}
+}
+@media (max-width:480px){.slider-container .arrow-nav a{top:180px}
+}
+@media (max-width:360px){.slider-container .arrow-nav a{top:128px}
+}
+.slider-container .thumb-list{padding:0;margin:0 0 22px;list-style:none;width:435px;height:460px;border:1px solid #d8d7d5;position:relative}
+.slider-container .thumb-list li{position:absolute;width:435px;height:460px;top:0;left:0;z-index:1;display:none;background:#fff}
+@media (max-width:1039px){.slider-container .thumb-list,.slider-container .thumb-list li{box-sizing:border-box;width:100%}
+}
+@media (max-width:480px){.slider-container .thumb-list,.slider-container .thumb-list li{height:348px}
+.slider-container .thumb-list li a img{width:340px}
+}
+@media (max-width:360px){.slider-container .thumb-list,.slider-container .thumb-list li{height:275px}
+}
+.slider-container .thumb-list .active{display:table;z-index:10}
+.slider-container .thumb-list a{display:table-cell;vertical-align:middle;text-align:center}
+@media (max-width:1039px){.slider-container .thumb-list .active{display:block}
+.slider-container .thumb-list a{display:block}
+}
+.slider-container .thumb-list .zoom{background:url(../../fileadmin/img/bg-zoom.png) no-repeat 50% 0;position:absolute;bottom:5px;right:6px;font-size:11px;line-height:14px;color:#635d57;text-decoration:none;width:23px;height:18px}
+.slider-container .switcher{padding:0;margin:0 -8px 0 0;list-style:none;width:445px}
+.slider-container .switcher li{float:left;width:79px;border:1px solid #d8d7d5;margin:0 8px 9px 0}
+@media (max-width:1039px){.slider-container .switcher,.slider-container .switcher>ul{width:100%;box-sizing:border-box}
+.slider-container .switcher>ul:before,.slider-container .switcher>ul:after{content:" ";display:table}
+.slider-container .switcher>ul:after{clear:both}
+.slider-container .switcher li{width:23%;margin:0 2% 9px 0;box-sizing:border-box}
+.nth-child-support .slider-container .switcher li{width:23.5%}
+.nth-child-support .slider-container .switcher li:nth-child(4n){margin:0 0 9px 0}
+.slider-container .switcher li a{background-color:#ffffff;display:block;text-align:center}
+.slider-container .switcher li a img{display:inline-block}
+}
+@media (max-width:767px){.slider-container .switcher{display:none}
+.slider-container .switcher li{width:48%;margin:0 2% 8px 0}
+.nth-child-support .slider-container .switcher li{width:49%}
+.nth-child-support .slider-container .switcher li:nth-child(2n),.nth-child-support .slider-container .switcher li:nth-child(4n){margin:0 0 8px 0}
+}
+.slider-container .switcher li img{display:block}
+.tabarea .description{float:right;width:436px}
+@media (max-width:1039px){.tabarea .description{width:48%;box-sizing:border-box}
+}
+@media (max-width:767px){.tabarea .description{width:100%;margin-top:30px}
+}
+.tabarea .holder{min-height:360px}
+@media (max-width:767px){.tabarea .holder{min-height:0}
+}
+.description ul.listing,.tabarea .holder ul{padding:0;margin:0 0 35px;list-style:none}
+.description ul.listing li,.tabarea .holder ul li{background:url(../../fileadmin/img/bullet01.png) no-repeat 2px 7px;padding-left:12px;margin-bottom:6px}
+.tabarea h2{margin:0 0 30px}
+.link-list{padding:0;margin:20px 0 20px;list-style:none;width:100%}
+.link-list01{margin:0 0 9px}
+.link-list:after{display:block;clear:both;content:''}
+.link-list li{margin:19px 0 0}
+.link-list li:first-child{margin:0}
+.link-list01 li{margin:0 0 0 36px;float:left}
+.link-list a{display:inline-block;
+text-decoration:none;color:#635d57;position:relative}
+.link-list img{float:left}
+.link-list span{float:left;color:#635d57;text-decoration:underline;margin:8px 0 0 13px;line-height:16px;letter-spacing:1px}
+.link-list a:hover span{text-decoration:none}
+.data-box{background:#fff;padding:23px 20px 10px}
+.link-list a>img{visibility:hidden}
+.link-list a:before{content:"\f105";font-family:FontAwesome;font-size:28px;font-weight:500;display:inline-block;width:30px;height:30px;line-height:30px;background-color:rgba(0,0,0,0.46);color:#fff;text-align:center;border-radius:52%;position:absolute;left:0;top:1px;box-sizing:border-box;padding:0 0 0 2px}
+.link-list a.open-lightbox:before{content:"\f129";font-size:20px;font-weight:300;padding:1px 0 0 0}
+.data-box h2{margin:0 0 17px}
+.data-box .data,.data-box dl{width:100%;margin:0;overflow:hidden;padding:0 0 14px;letter-spacing:1px}
+.data-box .data dt,.data-box dl dt{float:left;font-weight:600;width:100px;margin:0 10px 0 0}
+@media (max-width:479px){.data-box .data dt,.data-box dl dt{float:none;font-weight:700;margin:2px 0 4px}
+.data-box .data dt:after,.data-box dl dt:after{content:":"}
+}
+.data-box .data dd,.data-box dl dd{margin:0;overflow:hidden;
+}
+.data-box span{display:block}
+.table{border:1px solid #d8d7d5;border-collapse:collapse;width:100%;font:600 14px/20px'Source Sans Pro',Arial,Helvetica,sans-serif;background:#fff}
+.table th{font-weight:bold;text-align:left;vertical-align:middle;padding:9px 15px 10px;border-left:1px solid #d8d7d5}
+.table td{text-align:left;vertical-align:middle;padding:9px 15px 10px;border-left:1px solid #d8d7d5}
+.table .odd td{background:#efeeee}
+.thumb-listing{padding:0 0 42px;margin:0 -18px 0 0;list-style:none;width:921px}
+.thumb-listing:after{display:block;clear:both;content:''}
+.thumb-listing li{float:left;width:289px;margin:0 18px 25px 0}
+@media (max-width:1039px){.thumb-listing{width:100%}
+.thumb-listing li{width:31%;margin:0 2% 25px 0}
+.nth-child-support .thumb-listing li{width:32%;margin:0 2% 25px 0}
+.nth-child-support .thumb-listing li:nth-child(3n){margin:0 0 25px 0}
+}
+@media (max-width:767px){.thumb-listing li{width:46%;margin:0 4% 25px 0}
+.nth-child-support .thumb-listing li{width:48%;margin:0 2% 25px 0}
+.nth-child-support .thumb-listing li:nth-child(3n){margin:0 2% 25px 0}
+.nth-child-support .thumb-listing li:nth-child(2n){margin:0 0 25px 2%}
+}
+.thumb-listing .visual{margin:0 0 10px;position:relative;width:289px;height:231px;background:#fff}
+.thumb-listing .visual li{display:table;width:289px;height:231px;position:absolute;top:0;left:0;z-index:1;display:none;float:none;margin:0}
+@media (max-width:1039px){.thumb-listing .visual{margin:0 auto 10px;width:100%;height:231px;max-width:289px}
+.thumb-listing .visual li{width:100%;max-width:289px;height:231px}
+}
+@media (max-width:480px){.thumb-listing .visual{height:120px}
+.thumb-listing .visual a img{max-width:120px}
+.thumb-listing .visual li{height:auto}
+}
+.thumb-listing .visual .active{z-index:10;display:block}
+.thumb-listing .visual li a{display:block;vertical-align:middle;text-align:center;position:relative}
+.thumb-listing .visual .zoom{position:absolute;bottom:5px;right:6px}
+.thumb-listing .visual a img{vertical-align:top}
+.thumb-listing .name-holder{width:100%;position:relative}
+@media (max-width:1039px){.thumb-listing .name-holder{padding-bottom:10px}
+}
+@media (max-width:767px){.thumb-listing .name-holder{padding-bottom:0}
+}
+.thumb-listing .name-holder:after{display:block;clear:both;content:''}
+.thumb-listing .zoom{float:right;background:url(../../fileadmin/img/bg-zoom.png) no-repeat;width:23px;height:18px;text-indent:-9999px;overflow:hidden}
+.thumb-listing .name{font-size:14px;line-height:17px;float:left;letter-spacing:1px;margin:2px 0 0;width:259px}
+@media (max-width:1039px){.thumb-listing .name{display:block;width:100%;box-sizing:border-box}
+}
+@media (max-width:767px){.thumb-listing .name-holder{max-width:289px;margin:0 auto}
+}
+.thumb-listing .switcher{padding:8px 0 0 8px;margin:-1px 0 0 -23px;list-style:none;position:absolute;top:100%;left:100%;width:445px;z-index:20;border:1px solid #bbb;background:#efeeee}
+.thumb-listing .switcher01{left:auto;right:0}
+.thumb-listing .switcher li{float:left;width:79px;height:59px;overflow:hidden;border:1px solid #d8d7d5;margin:0 8px 8px 0}
+.thumb-listing .switcher .active,.thumb-listing .switcher li:hover{border:1px solid #777}
+.thumb-listing .switcher li img{display:block}
+.contact-holder{float:left;width:457px;padding:6px 0 0}
+@media (max-width:1039px){.contact-holder{width:48%;box-sizing:border-box}
+}
+@media (max-width:767px){.contact-holder{width:100%;height:auto !important;margin-top:30px}
+}
+.contact-holder .title{display:block;font:bold 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;margin:0 0 26px;letter-spacing:0.5px}
+.contact-form{width:100%}
+.contact-form .input-holder{width:100%;padding:0 0 15px}
+.contact-form .input-holder:after{display:block;clear:both;content:''}
+.contact-form .text{float:left;width:429px;height:34px;background:#fff;font:14px/33px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#635e57;border:1px solid #d3d2d0;margin:0 0 0 5px;padding:0 13px;letter-spacing:1px}
+.contact-form .text-size01{width:198px}
+.contact-form .text{margin:0}
+.contact-form textarea{float:left;width:429px;height:228px;background:#fff;font:14px/17px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#635e57;border:1px solid #d3d2d0;margin:0;padding:5px 13px;overflow:auto;letter-spacing:1px;resize:none}
+@media (max-width:1039px){.contact-form .text,.contact-form .text-size01,.contact-form textarea{width:100%;box-sizing:border-box}
+}
+.fullsize .same-height-right{float:right}
+.contact-form .btn-holder{padding:10px 0 0}
+.contact-form .btn{float:left;width:auto;background:#918e89 url(../../fileadmin/img/bg-btn01.png) no-repeat 17px 7px;height:26px;border:0;margin:0;padding:0px 12px 0 30px;font:14px/26px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#fff;cursor:pointer;-webkit-border-radius:15px;-moz-border-radius:15px;border-radius:15px;position:relative;behavior:url(http://lotusgrill.de/fileadmin/js/pie.htc);letter-spacing:1px}
+.contact-form .btn:hover{background:#c61b22 url(../../fileadmin/img/bg-btn01.png) no-repeat 17px 7px}
+.contact-form .info{float:right;margin:1px 0 0;letter-spacing:0.5px}
+.contact-frame{background:#efeeee;width:341px;float:right;padding:21px 58px 11px;font:14px/17px'Source Sans Pro',Arial,Helvetica,sans-serif}
+@media (max-width:1039px){.contact-frame{width:50%;box-sizing:border-box}
+}
+@media (max-width:767px){.contact-frame{width:100%;height:auto !important}
+}
+.contact-frame .holder{padding:0 0 25px}
+.contact-frame address{margin:0 0 16px;font-style:normal;padding:0}
+.contact-list{padding:0;margin:0 0 17px;list-style:none}
+.contact-frame a{color:#635d57;text-decoration:underline}
+.contact-frame a:hover{text-decoration:none}
+.address-title{display:block;margin:0 0 10px -37px;overflow:visible;width:378px;position:relative}
+@media (max-width:1039px){.address-title{width:100%;box-sizing:border-box}
+}
+.address-title .point{background:#555;width:20px;text-align:center;height:20px;font:15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;text-transform:uppercase;color:#fff;float:left;padding:2px 2px 2px 3px;position:relative;display:inline-block;border-radius:52%;z-index:1;box-sizing:border-box;margin:1px 0 0 2px}
+.address-title .point:before{content:"\f041";font-family:FontAwesome;color:#555;position:absolute;z-index:-1;top:8px;left:-1px;font-size:40px}
+.address-title .name{font:bold 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;display:block;overflow:hidden;
+padding:6px 0 0 15px;letter-spacing:0.5px}
+.contact-2{}
+.contact-2 .address-title .point{position:relative}
+.contact-2 .contact-form .btn-holder{padding-top:20px}
+.contact-2 .contact-holder .title{display:block;font:bold 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;margin:0 0 22px !important;letter-spacing:0.5px}
+.contact-2 .contact-frame{width:618px;padding:0 2px 0 0;margin:12px 0 0 0;background:#FFF;overflow:hidden}
+.contact-2 .contact-holder{width:309px;padding:0;margin:12px 0 0 0}
+.contact-2 .address-title{margin-left:0}
+.contact-2 address,.contact-2 ul{margin-left:40px}
+.contact-2 .contact-frame .holder{float:left;width:286px;height:229px;background:#efefee;padding:21px 0 0 17px;margin:0 20px 20px 0}
+.contact-2 .line-block{width:660px}
+.contact-2{padding:0 0 19px !important}
+.contact-2 .contact-form .text{float:left;width:156px;height:32px;background:#fff;font:14px/32px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#635e57;border:1px solid #d3d2d0;margin:0 6px 0 0;padding:0 13px;letter-spacing:1px}
+.contact-2 .cusel{float:left;position:relative;cursor:pointer;z-index:1;height:32px;outline:none;zoom:1;border:1px solid #d8d7d5}
+.contact-2 .cuselFrameRight{float:right;background:url(../../fileadmin/img/right-bg.gif) no-repeat;width:23px;height:32px}
+.contact-2 .cuselText{height:32px;padding:0 11px;cursor:pointer;overflow:hidden;position:relative;z-index:1;background:#FFF;font:14px/33px'Source Sans Pro',Arial,Helvetica,sans-serif;color:#635e57;letter-spacing:1px}
+.exposition{margin:3px 0}
+.exposition .tabset li{margin:0 0 0 12px}
+@media (max-width:767px){.exposition .tabset li{margin:0}
+}
+.exposition .tabset a{background:#96938f;padding:13px 14px 10px 21px;border:1px solid #96938f;text-decoration:none;width:190px;color:#fff}
+@media (max-width:1139px){.exposition .tabset a{width:auto;min-width:155px;box-sizing:border-box}
+}
+@media (max-width:760px){.exposition .tabset a{width:100%;color:#504b45}
+}
+.exposition .tabset a:hover{text-decoration:underline}
+.exposition .tabset .active a{background:#fff;text-decoration:none;border:1px solid #a5a29e;border-bottom:0;padding-bottom:12px;color:#504b45}
+.exposition .tab-content{background:#fff;border:1px solid #a9a6a3}
+.exposition .tab{padding:15px;width:913px}
+@media (max-width:1039px){.exposition .tab{width:100%}
+}
+.img-block{float:left;width:290px;overflow:hidden}
+@media (max-width:1039px){.img-block{width:30%}
+}
+@media (max-width:767px){.img-block{width:100%}
+}
+.img-block-hidden{display:none}
+.news-block{float:right;width:605px;position:relative;padding:0 0 30px;min-height:426px}
+@media (max-width:1039px){.news-block{width:67.5%}
+}
+@media (max-width:767px){.news-block{width:100%}
+}
+.news-list{padding:0;margin:0 0 10px;list-style:none}
+.news-list li{margin:6px 0 0;border:1px solid #e5e4e3}
+.news-list li:first-child{margin:0}
+.news-list .openclose{display:block;color:#6e6a65;font:600 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;text-transform:uppercase;text-decoration:none;background:#e5e4e3;padding:21px 14px 20px 48px;width:541px;position:relative}
+.news-list .openclose:before{content:"\f105";font-family:FontAwesome;font-weight:500;font-size:13px;line-height:13px;display:inline-block;text-align:center;width:15px;height:15px;border:1px solid;border-radius:52%;padding:0 1px 1px 3px;box-sizing:border-box;position:absolute;left:12px;top:23px}
+@media (max-width:1039px){.news-list .openclose{box-sizing:border-box;width:100%}
+}
+.news-list .openclose:after{display:block;clear:both;content:''}
+.news-list .fixopend .openclose,.news-list .expanded .openclose{background:#fff}
+.news-list .fixopend .openclose:before,.news-list .expanded .openclose:before{content:"\f107";padding:0 1px 0 1px}
+.news-list .date{float:left;width:210px}
+.news-list .name{float:right;width:320px}
+@media (max-width:1039px){.news-list .date{display:inline-block;float:none;width:auto;margin-right:4px}
+.news-list .name{display:inline-block;float:none;width:auto}
+}
+.news-list .slide{padding:18px 13px 19px;border-top:1px solid #e5e4e3}
+.news-list .slide p{margin:0}
+.paging-block{width:605px;position:absolute;bottom:-1px;left:0;letter-spacing:1px}
+.paging-block .paging{padding:0 0 0 4px;margin:0;list-style:none;float:left;color:#504b45;font-size:14px}
+.paging-block .paging li{float:left;margin:0 10px 0 0}
+.paging-block .paging a{color:#504b45;text-decoration:none}
+.paging-block .paging .active a,.paging-block .paging a:hover{color:#bb001b}
+.paging-block .download{float:right;padding:0 0 0 29px;color:#504b45;background:url(../../fileadmin/img/bg-download.png) no-repeat}
+.popup-holder{position:relative;overflow:hidden;height:0}
+.lightbox{background:#fff}
+.lightbox .container{position:relative;padding:40px 35px 40px 42px;width:947px;box-sizing:border-box}
+@media (max-width:1039px){.lightbox .container{width:100%;box-sizing:border-box}
+}
+@media (max-width:767px){#fancybox-wrap{background:#fff;padding:8px 20px 20px 20px !important}
+.lightbox .container{padding:42px 0 0 0}
+}
+.lightbox .close{text-indent:-9999px;overflow:hidden;position:absolute;top:10px;right:10px;background:url(../../fileadmin/img/bg-close01.png) no-repeat;width:27px;height:27px;z-index:1200;cursor:pointer}
+@media (max-width:767px){.lightbox .close{right:0}
+}
+.lightbox .title{text-transform:uppercase;font:bold 15px/18px'Source Sans Pro',Arial,Helvetica,sans-serif;margin:0 0 33px;letter-spacing:1px;display:block;color:#cf3547}
+.lightbox .text-block{width:100%}
+.lightbox .text-block:after{display:block;clear:both;content:''}
+.lightbox .text{float:right;width:460px}
+.lightbox .text:first-child{float:left}
+.lightbox .text p{margin:0 0 16px}
+#fancybox-loading{position:fixed;top:50%;left:50%;width:40px;height:40px;margin-top:-20px;margin-left:-20px;cursor:pointer;overflow:hidden;z-index:1104;display:none}
+#fancybox-loading div{position:absolute;top:0;left:0;width:40px;height:480px;
+}
+#fancybox-overlay{position:absolute;top:0;left:0;width:100%;z-index:1100;display:none}
+#fancybox-tmp{padding:0;margin:0;border:0;overflow:auto;display:none}
+#fancybox-wrap{position:absolute;top:0;left:0;padding:20px;z-index:1101;outline:none;display:none}
+#fancybox-outer{position:relative;width:100%;height:100%;background:#fff}
+#fancybox-content{width:0;height:0;padding:0;outline:none;position:relative;overflow:hidden;z-index:1102;border:0px solid #fff}
+#fancybox-hide-sel-frame{position:absolute;top:0;left:0;width:100%;height:100%;background:transparent;z-index:1101}
+#fancybox-error{color:#444;font:normal 12px/20px Arial;padding:14px;margin:0}
+#fancybox-img{width:100%;height:100%;padding:0;margin:0;border:none;outline:none;line-height:0;vertical-align:top}
+#fancybox-frame{width:100%;height:100%;border:none;display:block}
+#fancybox-left,#fancybox-right{position:absolute;bottom:0px;height:100%;width:35%;cursor:pointer;outline:none;z-index:1102;display:none}
+#fancybox-left{left:0px}
+#fancybox-right{right:0px}
+#fancybox-left-ico,#fancybox-right-ico{position:absolute;top:50%;left:-9999px;width:30px;height:30px;margin-top:-15px;cursor:pointer;z-index:1102;display:block;background:url(../../fileadmin/img/fancy_nav_left.png) no-repeat}
+#fancybox-right-ico{background:url(../../fileadmin/img/fancy_nav_right.png) no-repeat}
+#fancybox-left:hover span{left:20px}
+#fancybox-right:hover span{left:auto;right:20px}
+.fancybox-bg{position:absolute;padding:0;margin:0;border:0;width:20px;height:20px;z-index:1001}
+#footer{padding:31px 10px;box-sizing:border-box}
+.footer-list{padding:0;margin:0;list-style:none;text-align:center;font-size:0;line-height:0;letter-spacing:-1px}
+.footer-list li{display:inline-block;vertical-align:top;font:13px/16px'Source Sans Pro',Arial,Helvetica,sans-serif;letter-spacing:1px;padding:0 8px 0 9px;background:url(../../fileadmin/img/separator02.png) no-repeat 0 50%;color:#fff}
+.footer-list li:first-child{background:none}
+*+html .footer-list li{display:inline}
+.footer-list li a{color:#fff}
+.footer-list li a:hover{text-decoration:underline}
+@media (max-width:767px){.footer-list li:first-child{width:100%;padding:0 0 8px}
+.footer-list li:nth-child(2){background:none}
+}
+.hidden{display:none}
+.error{border:1px solid #FF0000 !important}
+.ausgeblendet{position:absolute;left:-99999px;top:-999999px}
+.main-slider .slider{height:744px}
+.promo{}
+.arr{position:absolute;top:50%;left:0;width:100%;height:200px;margin-top:-100px}
+.arr div{position:relative;height:100px;top:50%;margin-top:-50px}
+.clear{clear:both}
+.flex-direction-nav{display:none}
+.gmap{width:942px;height:400px}
+.touch-scroll-protector,.gmap{border:1px solid #c2bfb7;margin-bottom:29px}
+.touch-scroll-protector>.gmap{border:none;margin-bottom:0}
+@media (max-width:1039px){.gmap{width:100%;height:300px}
+}
+@media (max-width:767px){.gmap{height:200px}
+}
+#jlocator .touch-scroll-protector{border:none;margin-top:25px;margin-bottom:0}
+@media (max-width:767px){#jlocator{width:auto;float:none}
+}
+#jlocator:after{display:block;clear:both;content:''}
+@media only screen and (max-width:600px){#jlocator>.panel{float:none !important}
+}
+@media (min-width:601px){#jlocator>.panel{width:50% !important}
+#jlocator>.panel+.touch-scroll-protector{float:right;width:50%}
+#jlocator>.panel+.touch-scroll-protector>.map{width:100%}
+}
+@media (min-width:1040px){#jlocator>.panel{width:40% !important}
+#jlocator>.panel+.touch-scroll-protector{width:60%}
+}
+#jlocator>.panel:before,#jlocator>.panel:after,#jlocator .controls .box:before,#jlocator .controls .box:after{content:" ";display:table}
+#jlocator>.panel:after,#jlocator .controls .box:after{clear:both}
+@media only screen and (max-width:600px){#jlocator .controls{width:100%;padding:0 0 5px;box-sizing:border-box}
+#jlocator .controls .box{float:none;width:100%;box-sizing:border-box}
+}
+#jlocator .search-within-radius .autocomplete{width:250px}
+@media (max-width:767px){#jlocator .search-within-radius .autocomplete{width:150px}
+}
+#jlocator .search-within-radius .distance{padding:2px 0px}
+@media (max-width:1039px){#content .paging-results.left,#content .paging.left,#content .paging-results.right,#content .paging.right{width:100%;box-sizing:border-box}
+}
+#jlocator .paging span{display:inline-block;text-align:center;width:16px}
+#jlocator .stores{height:563px !important;
+}
+#jlocator .stores>.store span.contact{display:none}
+#jlocator .store p{padding-top:10px !important;padding-bottom:7px !important}
+#jlocator .store .directions{height:20px;display:block;margin-top:5px}
+#jlocator .store .directions label{position:relative;top:2px}
+#jlocator .info-window .directions{display:none}
+#jlocator .controls .paging.left{margin-right:0px !important;max-width:348px !important;float:right}
+#jlocator .touch-scroll-protector{height:650px}
+@media only screen and (max-width:600px){#jlocator .touch-scroll-protector{height:300px}
+}
